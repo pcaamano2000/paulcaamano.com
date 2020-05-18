@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Webseries Supporting Role: The Adventures of 2Guns
-author: pcaamano2000
+title: "Webseries Supporting Role: The Adventures of 2Guns"
+author: "pcaamano2000"
 date: 2017-06-03 16:23:20
 ---
 
