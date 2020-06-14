@@ -18,11 +18,19 @@ date: 2017-08-04 20:47:46
 <a href="https://m.facebook.com/story.php?story_fbid=10213491130858803&amp;id=44054450913"><img src="https://github.com/pcaamano2000/airspace-draft/blob/master/img/Cent21Thumb.jpg" style="width:750px; height:816px" title="Century 21" alt="Cent21"></a>
 
 
-
-
 <iframe src="https://github.com/pcaamano2000/airspace-draft/blob/master/img/Cent21Thumb.jpg" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://m.facebook.com/story.php?story_fbid=10213491130858803&amp;id=44054450913">Small Talk Fail</a> </p>
 
+
+
+
+
+<iframe src="/" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+
+<div class="facebook-responsive">
+    <iframe src="https://m.facebook.com/story.php?story_fbid=10213491130858803&amp;id=44054450913" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+</div>
 
 
 
