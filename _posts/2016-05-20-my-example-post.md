@@ -12,6 +12,6 @@ We are happy to be releasing ""The Eater's Cut"" of The Sin Eater. A short film 
 
 
 
-<iframe width="420" height="315"
-src="https://vimeo.com/236832488">
-</iframe>
+
+<iframe src="https://player.vimeo.com/video/236832488" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/236832488">Sin Eater (The Eater's Cut)</a> from <a href="https://vimeo.com/paulcaamano">Paul Caamano</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
