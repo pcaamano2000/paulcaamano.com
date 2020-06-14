@@ -1,12 +1,14 @@
 ---
 layout: post
+title: "Sin Eater (The Eater's Cut)"
+author: "pcaamano2000"
+date: 2017-10-04 22:24:17
 ---
 
-Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo accommodare te ius. Nec melius fastidii constituam id, viderer theophrastus ad sit, hinc semper periculis cum id. Noluisse postulant assentior est in, no choro sadipscing repudiandae vix. Vis in euismod delenit dignissim. Ex quod nostrum sit, suas decore animal id ius, nobis solet detracto quo te.
-
-{% comment %}
-Might you have an include in your theme? Why not try it here!
-{% include my-themes-great-include.html %}
-{% endcomment %}
-
-No laudem altera adolescens has, volumus lucilius eum no. Eam ei nulla audiam efficiantur. Suas affert per no, ei tale nibh sea. Sea ne magna harum, in denique scriptorem sea, cetero alienum tibique ei eos. Labores persequeris referrentur eos ei.
+We are happy to be releasing ""The Eater's Cut"" of The Sin Eater. A short film which Paul has worked with the talented team led by Farrell LeCorps as the Sin Eater."
+														
+"With the director's permission, this has been edited and scored to exemplify Paul's Editing and Film Scoring skillset. Without further ado, please enjoy this short:"														
+														
+														
+														
+[embed]https://vimeo.com/236832488[/embed]]]></content:encoded>	
