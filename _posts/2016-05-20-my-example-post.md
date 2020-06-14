@@ -10,7 +10,8 @@ We are happy to be releasing ""The Eater's Cut"" of The Sin Eater. A short film 
 "With the director's permission, this has been edited and scored to exemplify Paul's Editing and Film Scoring skillset. Without further ado, please enjoy this short:"														
 														
 
-<video width="320" height="240" controls>
-  <source src="https://vimeo.com/236832488">
-</video>
 
+
+<iframe width="420" height="315"
+src="https://vimeo.com/236832488">
+</iframe>
