@@ -7,7 +7,7 @@ date: 2017-08-04 20:47:46
 
 
                                                                                                                                           
-  <img width="750" height="816" src="/img/Cent21Thumb.jpg">
+  <img width="750" height="816" src="{{ site.baseurl }}/img/Cent21Thumb.jpg">
 
 
 
@@ -15,10 +15,10 @@ date: 2017-08-04 20:47:46
 
  - - - - - 
 
-<a href="https://m.facebook.com/story.php?story_fbid=10213491130858803&amp;id=44054450913"><img src="/img/Cent21Thumb.jpg" style="width:750px; height:816px" title="Century 21" alt="Cent21"></a>
+<a href="https://m.facebook.com/story.php?story_fbid=10213491130858803&amp;id=44054450913"><img src="{{ site.baseurl }}/img/Cent21Thumb.jpg" style="width:750px; height:816px" title="Century 21" alt="Cent21"></a>
 
 
-<iframe src="/img/Cent21Thumb.jpg" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="{{ site.baseurl }}/img/Cent21Thumb.jpg" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://m.facebook.com/story.php?story_fbid=10213491130858803&amp;id=44054450913">Small Talk Fail</a> </p>
 
 
