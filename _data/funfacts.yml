@@ -2,7 +2,7 @@
   icon: ion-ios-body-outline
   text: Amount of Ki Over
 - counter: 42
-  icon: ion-ios-thumbs-up
+  icon: ion-thumbs-up
   text: Amount of Time Towel Needed
 - counter: 121
   icon: ion-git-network-sharp
