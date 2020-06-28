@@ -1,12 +1,12 @@
 - counter: 9000
   icon: ion-ios-body-outline
   text: Amount of Ki Over
-- counter: 1500
+- counter: 42
+  icon: ion-ios-thumbs-up
+  text: Amount of Time Towel Needed
+- counter: 121
+  icon: ion-ios-git-network-sharp
+  text: Amount of Gigawatts Used
+- counter: 324120
   icon: ion-ios-glasses-outline
-  text: Gallons of Soft Drink
-- counter: 1200
-  icon: ion-ios-compose-outline
-  text: Whiteboard Markers
-- counter: 300
-  icon: ion-ios-timer-outline
-  text: Websites built
+  text: Hours Spent Making Nerdy References
