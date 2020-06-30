@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Tokijiro"
+author: "pcaamano2000"
+date: 2019-10-12 05:02:47
+---
+Paul has done it again and this time taking various supporting roles in a Japanese stage play Tokijiro to be performed in Kagoshima Japan!
+
+                                                                                                                                
+  <img width="750" height="816" src="{{ site.baseurl }}/img/portfolio/tokijiroPoster.jpg">                                                                                                                                         
+  <img width="750" height="816" src="{{ site.baseurl }}/img/portfolio/tokiBack.jpg">
