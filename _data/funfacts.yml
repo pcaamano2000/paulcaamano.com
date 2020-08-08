@@ -2,7 +2,7 @@
   icon: ion-ios-body-outline
   text: Amount of Ki Over
 - counter: 42
-  icon: fa-thumbs-o-up
+  icon: io-ios-thumbs-o-up
   text: Times Brought a Towel
 - counter: 121
   icon: ion-git-network-sharp
