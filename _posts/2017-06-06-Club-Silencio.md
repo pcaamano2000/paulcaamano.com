@@ -10,4 +10,4 @@ We are happy to announce Paul Caamano's Theatrical Debut as Bobby Marsten in the
 Play run is two nights only, June 20 &amp; 25th so get your ticket's for this dramatic masterpiece: <a href="https://manhattanrep.com/club-silencio/">CLICK HERE</a>
                                                                                                                                 
                                                                                                                                            
-  <img width="750" height="816" src="{{ site.baseurl }}/img/ClubSilencio.jpg">
+  <img width="750" height="1016" src="{{ site.baseurl }}/img/ClubSilencio.jpg">
