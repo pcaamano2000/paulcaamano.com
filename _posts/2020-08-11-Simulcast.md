@@ -26,6 +26,5 @@ Followed by Interview + Q&A with the Producers
 For the most optimal experience we suggest Youtube or Facebook so you can participate in the Q&A after the play is shown.
 
 
-                                                                                                                                
-  <img width="350" height="816" src="{{ site.baseurl }}/img/toki.jpg">                                                                                                                                         
-
+                                                              
+<img width="750" height="816" src="{{ site.baseurl }}/img/toki.jpg">
