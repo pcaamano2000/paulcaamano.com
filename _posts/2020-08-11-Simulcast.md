@@ -27,5 +27,5 @@ For the most optimal experience we suggest Youtube or Facebook so you can partic
 
 
                                                                                                                                 
-  <img src="{{ site.baseurl }}/img/toki.jpg">                                                                                                                                         
+  <img width="350" height="816" src="{{ site.baseurl }}/img/toki.jpg">                                                                                                                                         
 
