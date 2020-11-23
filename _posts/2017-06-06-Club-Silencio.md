@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Club Silencio"
+author: "pcaamano2000"
+date: 
+---
+
+
+
 <style>
 img {
   max-width: 100%;
@@ -5,12 +14,6 @@ img {
 }
 </style>
 
----
-layout: post
-title: "Club Silencio"
-author: "pcaamano2000"
-
----
 
 We are happy to announce Paul Caamano's Theatrical Debut as Bobby Marsten in the stage play Club Silencio.
 
