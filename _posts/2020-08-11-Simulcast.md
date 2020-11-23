@@ -1,3 +1,13 @@
+---
+layout: post
+title: "Simulcast"
+author: "pcaamano2000"
+date: 2020-08-11 05:02:47
+---
+
+
+
+
 <style>
 img {
   max-width: 100%;
@@ -5,12 +15,7 @@ img {
 }
 </style>
 
----
-layout: post
-title: "Simulcast"
-author: "pcaamano2000"
-date: 2020-08-11 05:02:47
----
+
 Paul will be hosting an exlclusive Simulcast of the bilingual play TOKIJIRO!
 This will be streaming on the following:
 
